@@ -1,0 +1,26 @@
+name,category,trend_score,growth_rate,search_volume,forecast_m1,forecast_m2,forecast_m3,competition,budget_recommended,data_source,opportunity_score
+Sweaters,Apparel,60.2,14.8,60200,77.8,89.6,100.0,Medium,531.6,fallback,33.0
+Hoodies,Apparel,48.8,-2.4,48800,46.4,43.6,41.0,Low,440.4,fallback,18.1
+T-Shirts,Apparel,66.8,14.5,66800,81.2,95.0,100.0,Medium,584.4,fallback,35.4
+Jeans,Apparel,51.3,7.8,51300,59.5,67.1,73.5,Medium,460.4,fallback,25.2
+Dresses,Apparel,48.1,0.8,48100,48.8,49.7,50.4,Medium,434.8,fallback,19.7
+Bags,Accessories,40.5,-4.2,40500,35.9,31.4,26.4,High,374.0,fallback,13.7
+Jewelry,Accessories,68.4,12.9,68400,83.1,96.7,100.0,Medium,597.2,fallback,35.1
+Watches,Accessories,49.1,15.2,49100,64.5,78.7,93.7,Medium,442.8,fallback,28.8
+Sunglasses,Accessories,62.5,14.3,62500,78.5,94.1,100.0,High,550.0,fallback,33.6
+Belts,Accessories,40.3,-7.9,40300,32.4,24.4,15.9,Medium,372.4,fallback,11.4
+Sneakers,Footwear,61.1,6.1,61100,66.4,73.0,79.1,Medium,538.8,fallback,28.1
+Boots,Footwear,69.1,16.1,69100,86.6,100.0,100.0,Medium,602.8,fallback,37.3
+Sandals,Footwear,45.9,4.0,45900,49.5,53.5,57.3,Low,417.2,fallback,20.8
+Heels,Footwear,68.1,14.1,68100,83.7,95.6,100.0,Medium,594.8,fallback,35.7
+Loafers,Footwear,45.0,16.5,45000,58.5,72.2,86.9,High,410.0,fallback,27.9
+Jackets,Outerwear,56.8,5.2,56800,62.2,67.0,72.6,High,504.4,fallback,25.8
+Coats,Outerwear,38.8,12.3,38800,53.2,68.0,78.9,High,360.4,fallback,22.9
+Blazers,Outerwear,44.4,2.5,44400,46.5,49.5,51.7,Medium,405.2,fallback,19.3
+Vests,Outerwear,69.8,12.9,69800,84.0,98.8,100.0,Medium,608.4,fallback,35.7
+Parkas,Outerwear,39.1,16.6,39100,55.6,72.4,86.8,Medium,362.8,fallback,25.6
+Yoga Pants,Activewear,37.4,11.8,37400,47.2,59.2,72.0,Medium,349.2,fallback,22.0
+Sports Bras,Activewear,38.2,9.9,38200,49.0,59.8,70.1,Low,355.6,fallback,21.2
+Running Shoes,Activewear,46.0,-0.1,46000,45.9,45.7,45.6,Low,418.0,fallback,18.3
+Workout Tops,Activewear,45.5,6.1,45500,51.0,57.0,63.9,Medium,414.0,fallback,21.9
+Athletic Shorts,Activewear,67.9,-3.2,67900,65.0,61.4,57.7,High,593.2,fallback,25.2
